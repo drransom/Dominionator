@@ -16,6 +16,15 @@
     <script src="./lib/card_selector.js"></script>
   </head>
   <body>
+    <section id="card-location"></section>
+    <form id="input-form"></form>
 
+    <script>
+      window.onload = function () {
+        console.log("test")
+        var selector = new Dominionator.CardSelector();
+        selector.start();
+      };
+    </script>
   </body>
 </html>
