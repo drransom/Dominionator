@@ -1,251 +1,251 @@
-name,set,cost,attack,action,victory,treasure,extraPile,ruins,spoils,attack,isEvent,curser,discarder,decker,attackTrasher,reaction,attackReaction,defendAgainstAll,defendAgainstCurse,defendAgainstDiscard,defendAgainstTrash
-cellar,Base,2,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-chapel,Base,2,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-moat,Base,2,N,Y,N,N,N,N,N,N,N,Y,N,N,N,Y,N,Y,Y,Y,Y
-chancellor,Base,3,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-village,Base,3,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-woodcutter,Base,3,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-workshop,Base,3,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-bureaucrat,Base,4,N,Y,N,N,N,N,N,Y,N,N,Y,Y,N,N,N,N,N,N,N
-feast,Base,4,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-gardens,Base,4,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-militia,Base,4,Hand,Y,N,N,N,N,N,Y,N,N,Y,N,N,N,N,N,N,N,N
-moneylender,Base,4,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-remodel,Base,4,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-smithy,Base,4,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-spy,Base,4,Deck,Y,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N
-thief,Base,4,Deck,Y,N,N,N,N,N,Y,N,N,Y,Y,N,N,N,N,N,N,N
-throne room,Base,4,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-council room,Base,5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-festival,Base,5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-laboratory,Base,5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-library,Base,5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-market,Base,5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-mine,Base,5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-witch,Base,5,Curse,Y,N,N,N,N,N,Y,N,Y,N,N,N,N,N,N,N,N,N
-adventurer,Base,6,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-courtyard,Intrigue,2,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-pawn,Intrigue,2,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-secret chamber,Intrigue,2,N,Y,N,N,N,N,N,N,N,N,N,N,N,Y,Y,N,N,Y,Y
-great hall,Intrigue,3,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-masquerade,Intrigue,3,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-shanty town,Intrigue,3,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-steward,Intrigue,3,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-swindler,Intrigue,3,Y,Y,N,N,N,N,N,Y,N,Y,N,Y,Y,N,N,N,N,N,N
-wishing well,Intrigue,3,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-baron,Intrigue,4,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-bridge,Intrigue,4,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-conspirator,Intrigue,4,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-coppersmith,Intrigue,4,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-ironworks,Intrigue,4,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-mining village,Intrigue,4,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-scout,Intrigue,4,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-duke,Intrigue,5,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-minion,Intrigue,5,Hand,Y,N,N,N,N,N,Y,N,N,Y,N,N,N,N,N,N,N,N
-saboteur,Intrigue,5,Deck,Y,N,N,N,N,N,Y,N,N,N,Y,Y,N,N,N,N,N,N
-torturer,Intrigue,5,Hand,Y,N,N,N,N,N,Y,N,Y,Y,N,N,N,N,N,N,N,N
-trading post,Intrigue,5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-tribute,Intrigue,5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-upgrade,Intrigue,5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-harem,Intrigue,6,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-nobles,Intrigue,6,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-herbalist,Alchemy,2,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-apprentice,Alchemy,5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-transmute,Alchemy,0.5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-vineyard,Alchemy,0.5,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-apothecary,Alchemy,2.5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-scrying pool,Alchemy,2.5,Deck,Y,N,N,N,N,N,Y,N,N,Y,N,N,N,N,N,N,N,N
-university,Alchemy,2.5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-alchemist,Alchemy,3.5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-familiar,Alchemy,3.5,Curse,Y,N,N,N,N,N,Y,N,Y,N,N,N,N,N,N,N,N,N
-philosopher's stone,Alchemy,3.5,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-golem,Alchemy,4.5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-possession,Alchemy,6.5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-embargo,Seaside,2,Curse?,Y,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N
-haven,Seaside,2,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-lighthouse,Seaside,2,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,Y,Y,N
-native village,Seaside,2,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-pearl diver,Seaside,2,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-ambassador,Seaside,3,Curse?,Y,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N
-fishing village,Seaside,3,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-lookout,Seaside,3,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-smugglers,Seaside,3,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-warehouse,Seaside,3,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-caravan,Seaside,4,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-cutpurse,Seaside,4,N,Y,N,N,N,N,N,Y,N,N,Y,N,N,N,N,N,N,N,N
-island,Seaside,4,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-navigator,Seaside,4,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-pirate ship,Seaside,4,Deck,Y,N,N,N,N,N,Y,N,N,N,N,Y,N,N,N,N,N,N
-salvager,Seaside,4,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-sea hag,Seaside,4,Deck Curse,Y,N,N,N,N,N,Y,N,Y,N,Y,N,N,N,N,N,N,N
-treasure map,Seaside,4,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-bazaar,Seaside,5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-explorer,Seaside,5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-ghost ship,Seaside,5,Deck Hand,Y,N,N,N,N,N,Y,N,N,N,Y,N,N,N,N,N,N,N
-merchant ship,Seaside,5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-outpost,Seaside,5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-tactician,Seaside,5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-treasury,Seaside,5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-wharf,Seaside,5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-loan,Prosperity,3,,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-trade route,Prosperity,3,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-watchtower,Prosperity,3,,Y,N,N,N,N,N,N,N,N,N,N,N,Y,Y,N,Y,Y,N
-bishop,Prosperity,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-monument,Prosperity,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-quarry,Prosperity,4,,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-talisman,Prosperity,4,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-worker's village,Prosperity,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-city,Prosperity,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-contraband,Prosperity,5,,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-counting house,Prosperity,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-mint,Prosperity,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-mountebank,Prosperity,5,,Y,N,N,N,N,N,Y,N,Y,N,N,N,N,N,N,N,N,N
-rabble,Prosperity,5,,Y,N,N,N,N,N,Y,N,N,N,Y,N,N,N,N,N,N,N
-royal seal,Prosperity,5,,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-vault,Prosperity,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-venture,Prosperity,5,,Y,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-goons,Prosperity,6,,Y,N,N,N,N,N,Y,N,N,Y,N,N,N,N,N,N,N,N
-grand market,Prosperity,6,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-hoard,Prosperity,6,,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-bank,Prosperity,7,,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-expand,Prosperity,7,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-forge,Prosperity,7,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-king's court,Prosperity,7,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-peddler,Prosperity,8,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-hamlet,Coruncopia,2,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-fortune teller,Coruncopia,3,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-menagerie,Coruncopia,3,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,N
-farming village,Coruncopia,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-horse traders,Coruncopia,4,,Y,N,N,N,N,N,Y,N,N,N,N,N,Y,Y,N,N,Y,N
-remake,Coruncopia,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-tournament,Coruncopia,4,,Y,N,N,Prizes,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-young witch,Coruncopia,4,,Y,N,N,Bane,N,N,Y,N,N,N,N,N,N,N,N,N,N,N
-harvest,Coruncopia,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-horn of plenty,Coruncopia,5,,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-hunting party,Coruncopia,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-jester,Coruncopia,5,,Y,N,N,N,N,N,Y,N,Y,N,Y,N,N,N,N,N,N,N
-fairgrounds,Coruncopia,6,,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-crossroads,Hinterlands,2,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-duchess,Hinterlands,2,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-fool's gold,Hinterlands,2,,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-develop,Hinterlands,3,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-oasis,Hinterlands,3,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-oracle,Hinterlands,3,,Y,N,N,N,N,N,Y,N,N,N,Y,N,N,N,N,N,N,N
-scheme,Hinterlands,3,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-tunnel,Hinterlands,3,,N,Y,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,Y,N
-jack of all trades,Hinterlands,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-noble brigand,Hinterlands,4,,Y,N,N,N,N,N,Y,N,N,Y,Y,N,N,N,N,N,N,N
-nomad camp,Hinterlands,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-silk road,Hinterlands,4,,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-spice merchant,Hinterlands,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-trader,Hinterlands,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-cache,Hinterlands,5,,Y,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-cartographer,Hinterlands,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-embassy,Hinterlands,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-haggler,Hinterlands,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-highway,Hinterlands,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-ill-gotten gains,Hinterlands,5,,N,Y,Y,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N
-inn,Hinterlands,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-mandarin,Hinterlands,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-margrave,Hinterlands,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-stables,Hinterlands,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-border village,Hinterlands,6,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-farmland,Hinterlands,6,,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-candlestick maker,Guilds,2,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-stonemason,Guilds,2,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-doctor,Guilds,3,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-masterpiece,Guilds,3,,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-advisor,Guilds,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-herald,Guilds,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-plaza,Guilds,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-taxman,Guilds,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-baker,Guilds,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-butcher,Guilds,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-journeyman,Guilds,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-merchant guild,Guilds,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-soothsayer,Guilds,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-poor house,Dark Ages,1,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-beggar,Dark Ages,2,,Y,N,N,N,N,N,N,N,N,N,N,N,Y,Y,N,N,Y,N
-squire,Dark Ages,2,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-vagrant,Dark Ages,2,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-forager,Dark Ages,3,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-hermit,Dark Ages,3,,Y,N,N,Madman,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-market square,Dark Ages,3,,Y,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,Y
-sage,Dark Ages,3,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-storeroom,Dark Ages,3,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-urchin,Dark Ages,3,,Y,N,N,Mercenary,N,N,Y,N,N,Y,N,N,N,N,N,N,N,N
-armory,Dark Ages,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-death cart,Dark Ages,4,,Y,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
-feodum,Dark Ages,4,,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-fortress,Dark Ages,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-ironmonger,Dark Ages,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-marauder,Dark Ages,4,,Y,N,N,N,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N
-procession,Dark Ages,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-rats,Dark Ages,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-scavenger,Dark Ages,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-wandering minstrel,Dark Ages,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-band of misfits,Dark Ages,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-bandit camp,Dark Ages,5,,Y,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N
-catacombs,Dark Ages,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-count,Dark Ages,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-counterfeit,Dark Ages,5,,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-cultist,Dark Ages,5,,Y,N,N,N,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N
-graverobber,Dark Ages,5,,Y,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N
-junk dealer,Dark Ages,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-mystic,Dark Ages,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-pillage,Dark Ages,5,,Y,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
-rebuild,Dark Ages,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-rogue,Dark Ages,5,,Y,N,N,N,N,N,Y,N,N,N,N,Y,N,N,N,N,N,N
-altar,Dark Ages,6,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-hunting grounds,Dark Ages,6,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-knights,Dark Ages,5,,Y,N,N,N,N,N,Y,N,N,N,N,Y,N,N,N,N,N,N
-coin of the realm,Adventures,2,,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-page,Adventures,2,,Y,N,N,Page Upgrades,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-peasant,Adventures,2,,Y,N,N,Peasant Upgrades,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-ratcatcher,Adventures,2,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-raze,Adventures,2,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-amulet,Adventures,3,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-caravan guard,Adventures,3,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-dungeon,Adventures,3,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-gear,Adventures,3,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-guide,Adventures,3,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-duplicate,Adventures,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-magpie,Adventures,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-messenger,Adventures,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-miser,Adventures,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-port,Adventures,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-ranger,Adventures,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-transmogrify,Adventures,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-artificer,Adventures,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-bridge troll,Adventures,5,,Y,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N
-distant lands,Adventures,5,,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-giant,Adventures,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-haunted woods,Adventures,5,,Y,N,N,N,N,N,Y,N,N,N,Y,N,N,N,N,N,N,N
-lost city,Adventures,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-relic,Adventures,5,,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-royal carriage,Adventures,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-storyteller,Adventures,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-swamp hag,Adventures,5,,Y,N,N,N,N,N,Y,N,Y,N,N,N,N,N,N,N,N,N
-treasure trove,Adventures,5,,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-wine merchant,Adventures,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-hireling,Adventures,6,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-alms,Adventures,0,,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N
-borrow,Adventures,0,,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N
-quest,Adventures,0,,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N
-save,Adventures,1,,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N
-scouting party,Adventures,2,,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N
-travelling fair,Adventures,2,,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N
-bonfire,Adventures,3,,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N
-expedition,Adventures,3,,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N
-ferry,Adventures,3,,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N
-plan,Adventures,3,,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N
-mission,Adventures,4,,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N
-pilgrimage,Adventures,4,,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N
-ball,Adventures,5,,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N
-raid,Adventures,5,,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N
-seaway,Adventures,5,,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N
-trade,Adventures,5,,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N
-lost arts,Adventures,6,,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N
-training,Adventures,6,,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N
-inheritance,Adventures,7,,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N
-pathfinding,Adventures,8,,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N
+id,name,set,cost,attack,action,victory,treasure,extraPile,ruins,spoils,attack,isEvent,curser,discarder,decker,attackTrasher,reaction,attackReaction,defendAgainstAll,defendAgainstCurse,defendAgainstDiscard,defendAgainstTrash
+1,cellar,Base,2,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2,chapel,Base,2,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+3,moat,Base,2,N,Y,N,N,N,N,N,N,N,Y,N,N,N,Y,N,Y,Y,Y,Y
+4,chancellor,Base,3,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+5,village,Base,3,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+6,woodcutter,Base,3,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+7,workshop,Base,3,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+8,bureaucrat,Base,4,N,Y,N,N,N,N,N,Y,N,N,Y,Y,N,N,N,N,N,N,N
+9,feast,Base,4,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+10,gardens,Base,4,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+11,militia,Base,4,Hand,Y,N,N,N,N,N,Y,N,N,Y,N,N,N,N,N,N,N,N
+12,moneylender,Base,4,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+13,remodel,Base,4,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+14,smithy,Base,4,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+15,spy,Base,4,Deck,Y,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N
+16,thief,Base,4,Deck,Y,N,N,N,N,N,Y,N,N,Y,Y,N,N,N,N,N,N,N
+17,throne room,Base,4,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+18,council room,Base,5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+19,festival,Base,5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+20,laboratory,Base,5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+21,library,Base,5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+22,market,Base,5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+23,mine,Base,5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+24,witch,Base,5,Curse,Y,N,N,N,N,N,Y,N,Y,N,N,N,N,N,N,N,N,N
+25,adventurer,Base,6,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+26,courtyard,Intrigue,2,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+27,pawn,Intrigue,2,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+28,secret chamber,Intrigue,2,N,Y,N,N,N,N,N,N,N,N,N,N,N,Y,Y,N,N,Y,Y
+29,great hall,Intrigue,3,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+30,masquerade,Intrigue,3,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+31,shanty town,Intrigue,3,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+32,steward,Intrigue,3,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+33,swindler,Intrigue,3,Y,Y,N,N,N,N,N,Y,N,Y,N,Y,Y,N,N,N,N,N,N
+34,wishing well,Intrigue,3,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+35,baron,Intrigue,4,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+36,bridge,Intrigue,4,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+37,conspirator,Intrigue,4,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+38,coppersmith,Intrigue,4,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+39,ironworks,Intrigue,4,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+40,mining village,Intrigue,4,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+41,scout,Intrigue,4,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+42,duke,Intrigue,5,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+43,minion,Intrigue,5,Hand,Y,N,N,N,N,N,Y,N,N,Y,N,N,N,N,N,N,N,N
+44,saboteur,Intrigue,5,Deck,Y,N,N,N,N,N,Y,N,N,N,Y,Y,N,N,N,N,N,N
+45,torturer,Intrigue,5,Hand,Y,N,N,N,N,N,Y,N,Y,Y,N,N,N,N,N,N,N,N
+46,trading post,Intrigue,5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+47,tribute,Intrigue,5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+48,upgrade,Intrigue,5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+49,harem,Intrigue,6,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+50,nobles,Intrigue,6,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+51,herbalist,Alchemy,2,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+52,apprentice,Alchemy,5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+53,transmute,Alchemy,0.5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+54,vineyard,Alchemy,0.5,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+55,apothecary,Alchemy,2.5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+56,scrying pool,Alchemy,2.5,Deck,Y,N,N,N,N,N,Y,N,N,Y,N,N,N,N,N,N,N,N
+57,university,Alchemy,2.5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+58,alchemist,Alchemy,3.5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+59,familiar,Alchemy,3.5,Curse,Y,N,N,N,N,N,Y,N,Y,N,N,N,N,N,N,N,N,N
+60,philosopher's stone,Alchemy,3.5,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+61,golem,Alchemy,4.5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+62,possession,Alchemy,6.5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+63,embargo,Seaside,2,Curse?,Y,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N
+64,haven,Seaside,2,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+65,lighthouse,Seaside,2,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,Y,Y,N
+66,native village,Seaside,2,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+67,pearl diver,Seaside,2,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+68,ambassador,Seaside,3,Curse?,Y,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N
+69,fishing village,Seaside,3,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+70,lookout,Seaside,3,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+71,smugglers,Seaside,3,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+72,warehouse,Seaside,3,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+73,caravan,Seaside,4,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+74,cutpurse,Seaside,4,N,Y,N,N,N,N,N,Y,N,N,Y,N,N,N,N,N,N,N,N
+75,island,Seaside,4,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+76,navigator,Seaside,4,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+77,pirate ship,Seaside,4,Deck,Y,N,N,N,N,N,Y,N,N,N,N,Y,N,N,N,N,N,N
+78,salvager,Seaside,4,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+79,sea hag,Seaside,4,Deck Curse,Y,N,N,N,N,N,Y,N,Y,N,Y,N,N,N,N,N,N,N
+80,treasure map,Seaside,4,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+81,bazaar,Seaside,5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+82,explorer,Seaside,5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+83,ghost ship,Seaside,5,Deck Hand,Y,N,N,N,N,N,Y,N,N,N,Y,N,N,N,N,N,N,N
+84,merchant ship,Seaside,5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+85,outpost,Seaside,5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+86,tactician,Seaside,5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+87,treasury,Seaside,5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+88,wharf,Seaside,5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+89,loan,Prosperity,3,,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+90,trade route,Prosperity,3,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+91,watchtower,Prosperity,3,,Y,N,N,N,N,N,N,N,N,N,N,N,Y,Y,N,Y,Y,N
+92,bishop,Prosperity,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+93,monument,Prosperity,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+94,quarry,Prosperity,4,,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+95,talisman,Prosperity,4,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+96,worker's village,Prosperity,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+97,city,Prosperity,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+98,contraband,Prosperity,5,,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+99,counting house,Prosperity,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+100,mint,Prosperity,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+101,mountebank,Prosperity,5,,Y,N,N,N,N,N,Y,N,Y,N,N,N,N,N,N,N,N,N
+102,rabble,Prosperity,5,,Y,N,N,N,N,N,Y,N,N,N,Y,N,N,N,N,N,N,N
+103,royal seal,Prosperity,5,,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+104,vault,Prosperity,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+105,venture,Prosperity,5,,Y,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+106,goons,Prosperity,6,,Y,N,N,N,N,N,Y,N,N,Y,N,N,N,N,N,N,N,N
+107,grand market,Prosperity,6,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+108,hoard,Prosperity,6,,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+109,bank,Prosperity,7,,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+110,expand,Prosperity,7,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+111,forge,Prosperity,7,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+112,king's court,Prosperity,7,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+113,peddler,Prosperity,8,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+114,hamlet,Coruncopia,2,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+115,fortune teller,Coruncopia,3,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+116,menagerie,Coruncopia,3,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,N
+117,farming village,Coruncopia,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+118,horse traders,Coruncopia,4,,Y,N,N,N,N,N,Y,N,N,N,N,N,Y,Y,N,N,Y,N
+119,remake,Coruncopia,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+120,tournament,Coruncopia,4,,Y,N,N,Prizes,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+121,young witch,Coruncopia,4,,Y,N,N,Bane,N,N,Y,N,N,N,N,N,N,N,N,N,N,N
+122,harvest,Coruncopia,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+123,horn of plenty,Coruncopia,5,,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+124,hunting party,Coruncopia,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+125,jester,Coruncopia,5,,Y,N,N,N,N,N,Y,N,Y,N,Y,N,N,N,N,N,N,N
+126,fairgrounds,Coruncopia,6,,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+127,crossroads,Hinterlands,2,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+128,duchess,Hinterlands,2,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+129,fool's gold,Hinterlands,2,,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+130,develop,Hinterlands,3,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+131,oasis,Hinterlands,3,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+132,oracle,Hinterlands,3,,Y,N,N,N,N,N,Y,N,N,N,Y,N,N,N,N,N,N,N
+133,scheme,Hinterlands,3,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+134,tunnel,Hinterlands,3,,N,Y,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,Y,N
+135,jack of all trades,Hinterlands,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+136,noble brigand,Hinterlands,4,,Y,N,N,N,N,N,Y,N,N,Y,Y,N,N,N,N,N,N,N
+137,nomad camp,Hinterlands,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+138,silk road,Hinterlands,4,,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+139,spice merchant,Hinterlands,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+140,trader,Hinterlands,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+141,cache,Hinterlands,5,,Y,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+142,cartographer,Hinterlands,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+143,embassy,Hinterlands,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+144,haggler,Hinterlands,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+145,highway,Hinterlands,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+146,ill-gotten gains,Hinterlands,5,,N,Y,Y,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N
+147,inn,Hinterlands,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+148,mandarin,Hinterlands,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+149,margrave,Hinterlands,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+150,stables,Hinterlands,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+151,border village,Hinterlands,6,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+152,farmland,Hinterlands,6,,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+153,candlestick maker,Guilds,2,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+154,stonemason,Guilds,2,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+155,doctor,Guilds,3,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+156,masterpiece,Guilds,3,,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+157,advisor,Guilds,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+158,herald,Guilds,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+159,plaza,Guilds,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+160,taxman,Guilds,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+161,baker,Guilds,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+162,butcher,Guilds,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+163,journeyman,Guilds,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+164,merchant guild,Guilds,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+165,soothsayer,Guilds,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+166,poor house,Dark Ages,1,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+167,beggar,Dark Ages,2,,Y,N,N,N,N,N,N,N,N,N,N,N,Y,Y,N,N,Y,N
+168,squire,Dark Ages,2,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+169,vagrant,Dark Ages,2,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+170,forager,Dark Ages,3,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+171,hermit,Dark Ages,3,,Y,N,N,Madman,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+172,market square,Dark Ages,3,,Y,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,Y
+173,sage,Dark Ages,3,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+174,storeroom,Dark Ages,3,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+175,urchin,Dark Ages,3,,Y,N,N,Mercenary,N,N,Y,N,N,Y,N,N,N,N,N,N,N,N
+176,armory,Dark Ages,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+177,death cart,Dark Ages,4,,Y,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+178,feodum,Dark Ages,4,,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+179,fortress,Dark Ages,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+180,ironmonger,Dark Ages,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+181,marauder,Dark Ages,4,,Y,N,N,N,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N
+182,procession,Dark Ages,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+183,rats,Dark Ages,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+184,scavenger,Dark Ages,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+185,wandering minstrel,Dark Ages,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+186,band of misfits,Dark Ages,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+187,bandit camp,Dark Ages,5,,Y,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N
+188,catacombs,Dark Ages,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+189,count,Dark Ages,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+190,counterfeit,Dark Ages,5,,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+191,cultist,Dark Ages,5,,Y,N,N,N,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N
+192,graverobber,Dark Ages,5,,Y,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N
+193,junk dealer,Dark Ages,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+194,mystic,Dark Ages,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+195,pillage,Dark Ages,5,,Y,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+196,rebuild,Dark Ages,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+197,rogue,Dark Ages,5,,Y,N,N,N,N,N,Y,N,N,N,N,Y,N,N,N,N,N,N
+198,altar,Dark Ages,6,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+199,hunting grounds,Dark Ages,6,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+200,knights,Dark Ages,5,,Y,N,N,N,N,N,Y,N,N,N,N,Y,N,N,N,N,N,N
+201,coin of the realm,Adventures,2,,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+202,page,Adventures,2,,Y,N,N,Page Upgrades,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+203,peasant,Adventures,2,,Y,N,N,Peasant Upgrades,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+204,ratcatcher,Adventures,2,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+205,raze,Adventures,2,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+206,amulet,Adventures,3,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+207,caravan guard,Adventures,3,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+208,dungeon,Adventures,3,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+209,gear,Adventures,3,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+210,guide,Adventures,3,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+211,duplicate,Adventures,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+212,magpie,Adventures,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+213,messenger,Adventures,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+214,miser,Adventures,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+215,port,Adventures,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+216,ranger,Adventures,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+217,transmogrify,Adventures,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+218,artificer,Adventures,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+219,bridge troll,Adventures,5,,Y,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N
+220,distant lands,Adventures,5,,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+221,giant,Adventures,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+222,haunted woods,Adventures,5,,Y,N,N,N,N,N,Y,N,N,N,Y,N,N,N,N,N,N,N
+223,lost city,Adventures,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+224,relic,Adventures,5,,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+225,royal carriage,Adventures,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+226,storyteller,Adventures,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+227,swamp hag,Adventures,5,,Y,N,N,N,N,N,Y,N,Y,N,N,N,N,N,N,N,N,N
+228,treasure trove,Adventures,5,,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+229,wine merchant,Adventures,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+230,hireling,Adventures,6,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+231,alms,Adventures,0,,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N
+232,borrow,Adventures,0,,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N
+233,quest,Adventures,0,,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N
+234,save,Adventures,1,,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N
+235,scouting party,Adventures,2,,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N
+236,travelling fair,Adventures,2,,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N
+237,bonfire,Adventures,3,,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N
+238,expedition,Adventures,3,,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N
+239,ferry,Adventures,3,,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N
+240,plan,Adventures,3,,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N
+241,mission,Adventures,4,,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N
+242,pilgrimage,Adventures,4,,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N
+243,ball,Adventures,5,,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N
+244,raid,Adventures,5,,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N
+245,seaway,Adventures,5,,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N
+246,trade,Adventures,5,,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N
+247,lost arts,Adventures,6,,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N
+248,training,Adventures,6,,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N
+249,inheritance,Adventures,7,,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N
+250,pathfinding,Adventures,8,,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N
