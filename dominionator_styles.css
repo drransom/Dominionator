@@ -1,15 +1,21 @@
-li.hidden.inactive {
+.hidden {
   max-height: 0px;
   overflow: hidden
 }
 
+.slideLeft {
+  margin-left: -1000px;
+}
+
 li {
+  margin-left: 0;
   max-height: 200px;
   transition: all 1s;
   -webkit-transition: all 1s;
   -moz-transition: all 1s;
+  -o-transition: all 1s;
 }
 
-ul.set-name-list {
+.set-name-list {
   list-style-type: none
 }
