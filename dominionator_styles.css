@@ -1,14 +1,9 @@
-.hidden {
-  max-height: 0;
-  overflow: hidden;
-  margin-left: -1000px;
-}
-
 .slideLeft {
   margin-left: -1000px;
   visibility: hidden;
   overflow: hidden;
   max-height: 0;
+  margin-bottom: 0;
 }
 
 li {

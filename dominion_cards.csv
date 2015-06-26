@@ -189,7 +189,7 @@ id,name,set,cost,attack,action,victory,treasure,extraPile,ruins,spoils,attack,is
 188,catacombs,Dark Ages,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
 189,count,Dark Ages,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
 190,counterfeit,Dark Ages,5,,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-191,cultist,Dark Ages,5,,Y,N,N,N,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N
+191,cultist,Dark Ages,5,,Y,N,N,N,Y,N,Y,N,N,N,N,N,N,N,N,N,N,N
 192,graverobber,Dark Ages,5,,Y,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N
 193,junk dealer,Dark Ages,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
 194,mystic,Dark Ages,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
