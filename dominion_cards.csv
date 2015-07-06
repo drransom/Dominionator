@@ -112,19 +112,19 @@ id,name,set,cost,attack,action,victory,treasure,extraPile,ruins,spoils,attack,is
 111,forge,Prosperity,7,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
 112,king's court,Prosperity,7,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
 113,peddler,Prosperity,8,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-114,hamlet,Coruncopia,2,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-115,fortune teller,Coruncopia,3,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-116,menagerie,Coruncopia,3,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,N
-117,farming village,Coruncopia,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-118,horse traders,Coruncopia,4,,Y,N,N,N,N,N,Y,N,N,N,N,N,Y,Y,N,N,Y,N
-119,remake,Coruncopia,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-120,tournament,Coruncopia,4,,Y,N,N,Prizes,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-121,young witch,Coruncopia,4,,Y,N,N,Bane,N,N,Y,N,N,N,N,N,N,N,N,N,N,N
-122,harvest,Coruncopia,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-123,horn of plenty,Coruncopia,5,,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-124,hunting party,Coruncopia,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-125,jester,Coruncopia,5,,Y,N,N,N,N,N,Y,N,Y,N,Y,N,N,N,N,N,N,N
-126,fairgrounds,Coruncopia,6,,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+114,hamlet,Cornucopia,2,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+115,fortune teller,Cornucopia,3,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+116,menagerie,Cornucopia,3,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,N
+117,farming village,Cornucopia,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+118,horse traders,Cornucopia,4,,Y,N,N,N,N,N,Y,N,N,N,N,N,Y,Y,N,N,Y,N
+119,remake,Cornucopia,4,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+120,tournament,Cornucopia,4,,Y,N,N,Prizes,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+121,young witch,Cornucopia,4,,Y,N,N,Bane,N,N,Y,N,N,N,N,N,N,N,N,N,N,N
+122,harvest,Cornucopia,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+123,horn of plenty,Cornucopia,5,,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+124,hunting party,Cornucopia,5,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+125,jester,Cornucopia,5,,Y,N,N,N,N,N,Y,N,Y,N,Y,N,N,N,N,N,N,N
+126,fairgrounds,Cornucopia,6,,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
 127,crossroads,Hinterlands,2,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
 128,duchess,Hinterlands,2,,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
 129,fool's gold,Hinterlands,2,,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
