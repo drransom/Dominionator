@@ -16,6 +16,26 @@ li {
   max-width: 500px;
 }
 
+h1 {
+  margin-left: 0;
+  max-height: 200px;
+  transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  max-width: 500px;
+}
+
+h2 {
+  margin-left: 0;
+  max-height: 200px;
+  transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  max-width: 500px;
+}
+
 .set-name-list {
   list-style-type: none
 }
