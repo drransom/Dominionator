@@ -13,6 +13,11 @@
   padding: 0;
 }
 
+ul {
+  list-style-type: none;
+  padding-left: 40
+}
+
 li {
   margin-left: 0;
   max-height: 200px;
@@ -20,7 +25,7 @@ li {
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
   -o-transition: all 0.5s;
-  max-width: 500px;
+  max-width: 1000px;
 }
 
 h1 {
@@ -31,6 +36,7 @@ h1 {
   -moz-transition: all 0.5s;
   -o-transition: all 0.5s;
   max-width: 500px;
+  padding-left: 40px;
 }
 
 h2 {
@@ -47,6 +53,13 @@ h2 {
   list-style-type: none
 }
 
-input {
-  color: green;
+.dominionator-submit {
+  margin-left: 40px;
+}
+.dominionator-veto {
+  margin-left: 5px;
+}
+
+.dominionator-option {
+  margin-right: 5px;
 }
