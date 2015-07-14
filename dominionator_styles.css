@@ -40,7 +40,8 @@
 
 ul {
   list-style-type: none;
-  padding-left: 40
+  padding-left: 40;
+  overflow: hidden
 }
 
 li {
@@ -51,6 +52,7 @@ li {
   -moz-transition: all 0.5s;
   -o-transition: all 0.5s;
   max-width: 1000px;
+  overflow: hidden;
 }
 
 h1 {
