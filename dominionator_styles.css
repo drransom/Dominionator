@@ -63,3 +63,9 @@ h2 {
 .dominionator-option {
   margin-right: 5px;
 }
+
+.dominionator-set-name {
+  display: inline-block;
+  width: 100px;
+  text-align: center;
+}
