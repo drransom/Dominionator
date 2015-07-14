@@ -30,7 +30,7 @@ and CSS3--no third party libraries, including jQuery.
 [] Remember user preferences from session to session using cookies
 [] Additional restrictions on card selections (e.g., no attacks)
 [] Change animations to be left-to-right, carousel-style
-[] Reverse veto
+[] Undo veto
 [] Improve page styling
 
 ### Libraries to remove:
@@ -38,6 +38,7 @@ I started by adding third-party libraries to get functionality working, and
 have slowly been removing as they're no longer needed.
 
 [X] Twitter Bootstrap
+[X] JST
 [X] jQuery
 [] Underscore
 [] Papa.parse

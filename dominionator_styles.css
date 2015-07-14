@@ -13,6 +13,14 @@
   padding: 0;
 }
 
+.hideCenter {
+  visibility: hidden;
+  overflow: hidden;
+  max-height: 0;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
 .slideRight {
   margin-left: 2000px;
   visibility: hidden;
@@ -20,6 +28,7 @@
   max-height: 0;
   margin-bottom: 0;
   margin-top: 0;
+  white-space: nowrap;
 }
 
 .noMove {
@@ -36,7 +45,7 @@ ul {
 
 li {
   margin-left: 0;
-  max-height: 200px;
+  max-height: 50px;
   transition: all 0.5s;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
@@ -46,7 +55,7 @@ li {
 
 h1 {
   margin-left: 0;
-  max-height: 200px;
+  max-height: 50px;
   transition: all 0.5s;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
@@ -57,7 +66,7 @@ h1 {
 
 h2 {
   margin-left: 0;
-  max-height: 200px;
+  max-height: 50px;
   transition: all 0.5s;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
