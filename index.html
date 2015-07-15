@@ -29,10 +29,14 @@
     <link href="./dominionator_styles.css" rel="stylesheet" media="screen" type="text/css">
   </head>
   <body>
-    <div class="container-fluid">
-      <section id="card-location"></section>
-      <form id="sort-form"></form>
-      <form id="input-form"></form>
+    <div class="dominionator-area">
+      <div class="column">
+        <div id="dominionator-card-location"></div>
+        <form id="dominionator-sort-form"></form>
+      </div>
+      <div class="column">
+        <form id="dominionator-input-form" class="dominionator-input-form"></form>
+      </div>
     </div>
     <script>
       window.onload = function () {
