@@ -125,16 +125,28 @@ h2 {
   page-break-inside: avoid;
 }
 
-@media only screen and (max-width: 999px) {
+@media only screen and (max-width: 900px) {
   /* rules that only apply for canvases narrower than 1000px */
+  .column {
+    width: inherit;
+    float: none;
+  }
 }
 
 @media only screen and (min-device-width: 481px)
        and (max-device-width: 768px)
        and (orientation: landscape) {
   /* rules for iPad in landscape orientation */
+  .column {
+    width: inherit;
+    float: none;
+  }
 }
 
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
   /* iPhone, Android rules here */
+  .column {
+    width: inherit;
+    float: none;
+  }
 }
