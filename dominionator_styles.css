@@ -96,3 +96,33 @@ h2 {
   width: 100px;
   text-align: center;
 }
+
+.select-form-header {
+  text-align: center;
+  max-width: 480px;
+
+  -webkit-column-count: 6;
+  -ms-column-count: 6;
+  -moz-column-count: 6;
+  column-count: 6;
+
+  -webkit-column-rule-style: none;
+  -ms-column-rule-style: none;
+  -moz-column-rule-style: none;
+  column-rule-style: none;
+
+}
+
+@media only screen and (max-width: 999px) {
+  /* rules that only apply for canvases narrower than 1000px */
+}
+
+@media only screen and (min-device-width: 481px)
+       and (max-device-width: 768px)
+       and (orientation: landscape) {
+  /* rules for iPad in landscape orientation */
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+  /* iPhone, Android rules here */
+}
