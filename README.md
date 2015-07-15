@@ -24,13 +24,13 @@ and CSS3--no third party libraries, including jQuery.
 #### Animations
 [X] Vetoed cards slide in and out
 [X] Card history slides in and out
+[X] Undo veto
 
 ### Un-Implemented Features:
 
 [] Remember user preferences from session to session using cookies
 [] Additional restrictions on card selections (e.g., no attacks)
 [] Change animations to be left-to-right, carousel-style
-[] Undo veto
 [] Improve page styling
 
 ### Libraries to remove:
@@ -40,5 +40,5 @@ have slowly been removing as they're no longer needed.
 [X] Twitter Bootstrap
 [X] JST
 [X] jQuery
-[] Underscore
+[X] Underscore
 [] Papa.parse
