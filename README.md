@@ -37,8 +37,12 @@ and CSS3--no third party libraries, including jQuery.
 I started by adding third-party libraries to get functionality working, and
 have slowly been removing as they're no longer needed.
 
+
 - [X] Twitter Bootstrap
 - [X] JST
 - [X] jQuery
 - [X] Underscore
 - Papa.parse
+
+Removing Papa.parse is a long-term project since building a separate .csv parser
+is beyond the scope of this project.
