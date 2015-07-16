@@ -101,10 +101,10 @@ h2 {
   text-align: center;
   max-width: 480px;
 
-  -webkit-column-count: 6;
-  -ms-column-count: 6;
-  -moz-column-count: 6;
-  column-count: 6;
+  -webkit-column-count: 5;
+  -ms-column-count: 5;
+  -moz-column-count: 5;
+  column-count: 5;
 
   -webkit-column-rule-style: none;
   -ms-column-rule-style: none;
@@ -122,6 +122,25 @@ h2 {
   -webkit-break-inside: avoid;
   break-inside: avoid;
   page-break-inside: avoid;
+}
+
+.dominionator-select-li {
+  text-align: center;
+  max-width: 480px;
+
+  -webkit-column-count: 5;
+  -ms-column-count: 5;
+  -moz-column-count: 5;
+  column-count: 5;
+
+  -webkit-column-rule-style: none;
+  -ms-column-rule-style: none;
+  -moz-column-rule-style: none;
+  column-rule-style: none;
+}
+
+.dominionator-select-ul {
+  padding-left: 0;
 }
 
 @media only screen and (max-width: 900px) {
