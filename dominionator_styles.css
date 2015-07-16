@@ -150,7 +150,7 @@ h2 {
   clear: both;
 }
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 850px) {
   /* rules that only apply for canvases narrower than 1000px */
   .column {
     width: 100%;
