@@ -100,16 +100,6 @@ h2 {
 .select-form-header {
   text-align: center;
   max-width: 480px;
-
-  -webkit-column-count: 5;
-  -ms-column-count: 5;
-  -moz-column-count: 5;
-  column-count: 5;
-
-  -webkit-column-rule-style: none;
-  -ms-column-rule-style: none;
-  -moz-column-rule-style: none;
-  column-rule-style: none;
 }
 
 .column {
@@ -122,32 +112,23 @@ h2 {
   -webkit-break-inside: avoid;
   break-inside: avoid;
   page-break-inside: avoid;
+  max-width: 375px;
 }
 
 .dominionator-select-li {
   text-align: center;
-  max-width: 480px;
-
-  -webkit-column-count: 5;
-  -ms-column-count: 5;
-  -moz-column-count: 5;
-  column-count: 5;
-
-  -webkit-column-rule-style: none;
-  -ms-column-rule-style: none;
-  -moz-column-rule-style: none;
-  column-rule-style: none;
+  max-width: 600px;
 }
 
 .dominionator-select-ul {
   padding-left: 0;
+  float: left;
 }
 
 .dominionator-min-max-column {
   float: left;
-  width: 80px;
-  padding-left: 20px;
-  text-align: left;
+  width: 50px;
+  text-align: center;
 }
 
 .dominionator-set-column {
@@ -158,9 +139,15 @@ h2 {
 
 .dominionator-include-exclude-column {
   float: left;
-  width: 40px;
+  width: 50px;
   padding-left: 10px;
-  text-align: left;
+  text-align: center;
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 @media only screen and (max-width: 900px) {
