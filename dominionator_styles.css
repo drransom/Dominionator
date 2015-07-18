@@ -147,10 +147,19 @@ h2 {
 }
 
 .dominionator-card-cost {
+  font-family: 'Slabo', serif;
   float: left;
   width: 20px;
-  padding-left: 5px;
-  text-align: center
+  text-align: center;
+  border-style: none;
+  border-radius: 20px;
+  background-color: goldenrod;
+  -webkit-filter: drop-shadow(1px 2px 1px black);
+  -moz-filter: drop-shadow(1px 2px 1px black);
+  -ms-filter: drop-shadow(1px 2px 1px black);
+  -o-filter: drop-shadow(1px 2px 1px black);
+  filter: drop-shadow(1px 2px 1px black);
+
 }
 
 .dominionator-card-name {
