@@ -85,6 +85,7 @@ h2 {
 }
 .dominionator-veto {
   margin-left: 5px;
+  font-family: 'Roboto', sans-serif;
 }
 
 .dominionator-option {
@@ -92,6 +93,7 @@ h2 {
 }
 
 .dominionator-set-name {
+  font-family: 'Poiret One', cursive;
   display: inline-block;
   width: 100px;
   text-align: center;
@@ -152,6 +154,9 @@ h2 {
 }
 
 .dominionator-card-name {
+  font-family: 'Slabo', serif;
+  font-size: 18px;
+  font-variant: small-caps;
   float: left;
   width: 150px;
   overflow-wrap: normal;
