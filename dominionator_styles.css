@@ -1,3 +1,7 @@
+body {
+  font-family: 'Forum'
+}
+
 .slideLeft {
   margin-left: -1000px;
   visibility: hidden;
@@ -56,6 +60,8 @@ li {
 }
 
 h1 {
+  font-family: 'Apple Chancery', 'URW Chancery L', 'Monotype Corsiva', cursive;
+  font-variant: small-caps;
   margin-left: 0;
   max-height: 50px;
   transition: all 0.5s;
@@ -93,7 +99,7 @@ h2 {
 }
 
 .dominionator-set-name {
-  font-family: 'Poiret One', cursive;
+  font-family: 'Forum';
   display: inline-block;
   width: 100px;
   text-align: center;
@@ -151,7 +157,7 @@ h2 {
 }
 
 .dominionator-card-cost-num {
-  font-family: 'Slabo', serif;
+  font-family: 'Apple Chancery', 'URW Chancery L', 'Monotype Corsiva';
   float: left;
   width: 20px;
   text-align: center;
@@ -167,7 +173,7 @@ h2 {
 }
 
 .dominionator-card-name {
-  font-family: 'Slabo', serif;
+  font-family: 'Forum';
   font-size: 18px;
   font-variant: small-caps;
   float: left;
