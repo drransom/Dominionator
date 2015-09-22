@@ -44,7 +44,7 @@ body {
 
 ul {
   list-style-type: none;
-  padding-left: 40;
+  padding-left: 40px;
   overflow: hidden
 }
 
@@ -97,6 +97,10 @@ button, input {
   -webkit-transition: background-color 0.5s ease;
   -moz-transition: background-color 0.5s ease;
   -o-transition: background-color 0.5s ease;
+}
+
+button.dominionator-unveto-button {
+  margin-left: 40px;
 }
 
 button:hover, button:focus, button:active,
