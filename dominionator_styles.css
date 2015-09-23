@@ -3,9 +3,13 @@ body {
   margin: 0;
 }
 
+section {
+  overflow: hidden;
+}
+
 .dominionator-wrapper {
   display: flex;
-  flex-direction: row;
+  /*flex-direction: row;*/
   background-color: #8BA7C3;
   height: 100vh;
 }
@@ -28,8 +32,8 @@ body {
   padding: 0;
 }
 
-
-.slideLeft + ul {
+.slideLeft + ul,
+.slideLeft + h1 {
   margin-top: 0;
   margin-bottom: 0;
   padding: 0;
@@ -94,6 +98,7 @@ h1 {
   -o-transition: all 0.5s;
   max-width: 500px;
   padding-left: 40px;
+  overflow: hidden
 }
 
 h2 {
@@ -104,6 +109,7 @@ h2 {
   -moz-transition: all 0.5s;
   -o-transition: all 0.5s;
   max-width: 500px;
+  overflow: hidden;
 }
 
 .set-name-list {
