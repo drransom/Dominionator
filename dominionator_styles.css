@@ -9,6 +9,10 @@ section {
   overflow: hidden;
 }
 
+li span {
+  display: inline-block;
+}
+
 .dominionator-wrapper {
   position: relative;
   display: flex;
