@@ -115,18 +115,27 @@ h1 {
   -o-transition: all 0.5s;
   max-width: 500px;
   padding-left: 40px;
-  overflow: hidden
+  overflow: hidden;
+  margin-bottom: 0px;
+  margin-top: 0px
 }
 
-h2 {
-  margin-left: 0;
-  max-height: 50px;
-  transition: all 0.5s;
-  -webkit-transition: all 0.5s;
-  -moz-transition: all 0.5s;
-  -o-transition: all 0.5s;
-  max-width: 500px;
-  overflow: hidden;
+.dominionator-setup-area h1 {
+  font-size: 22px;
+}
+
+.dominionator-setup-area ul {
+  margin-top: 10px;
+}
+
+.dominionator-setup-area ul li {
+  font-family: 'Forum';
+  font-size: 18px;
+  font-variant: small-caps;
+  float: left;
+  overflow-wrap: normal;
+  word-wrap: normal;
+  padding-right: 20px;
 }
 
 .set-name-list {
@@ -251,7 +260,6 @@ img.dominionator-potion-img-no-text {
   width: 150px;
   overflow-wrap: normal;
   word-wrap: normal;
-
 }
 
 .clearfix:after {
