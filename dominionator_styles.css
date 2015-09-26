@@ -14,6 +14,14 @@ header {
   width: 100%;
 }
 
+.standard-left-margin-padding {
+  padding-left: 40px
+}
+
+.standard-left-margin-margin {
+  margin-left: 40px
+}
+
 header .dominionator-header {
   color: white;
   height: 30px;
@@ -72,7 +80,6 @@ footer div, .dominionator-content-area, header .dominionator-header {
   margin-left: auto;
   margin-right: auto
 }
-
 
 .dominionator-content-area {
   margin-left: auto;
@@ -212,7 +219,7 @@ button, input {
   -o-transition: background-color 0.5s ease;
 }
 
-button.dominionator-unveto-button {
+.dominionator-unveto-button {
   margin-left: 40px;
 }
 
@@ -326,11 +333,31 @@ img.dominionator-potion-img-no-text {
 }
 
 @media only screen and (max-width: 850px) {
-  /* rules that only apply for canvases narrower than 1000px */
+  /* rules that only apply for canvases narrower than 850px */
   .column {
     width: 100%;
     float: none;
   }
+
+  footer div, .dominionator-content-area, header .dominionator-header {
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto
+  }
+
+  .dominionator-heading, .dominionator-list {
+    padding-left: 175px;
+  }
+
+  .dominionator-unveto-button {
+    margin-left: 175px
+  }
+
+  .dominionator-content-area .right-column {
+    padding-top: 0px
+  }
+
+
 }
 
 @media only screen and (min-device-width: 481px)
@@ -349,6 +376,7 @@ img.dominionator-potion-img-no-text {
     margin-left: 1000px
   }
 }
+
 
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
   /* iPhone, Android rules here */
@@ -370,5 +398,23 @@ img.dominionator-potion-img-no-text {
   .dominionator-card-name {
     width: 120px;
     font-size: 14px
+  }
+
+  footer div, .dominionator-content-area, header .dominionator-header {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto
+  }
+
+  .dominionator-heading, .dominionator-list {
+    padding-left: 20px;
+  }
+
+  .dominionator-unveto-button {
+    margin-left: 20px
+  }
+
+  .dominionator-content-area .right-column {
+    padding-top: 0px
   }
 }
