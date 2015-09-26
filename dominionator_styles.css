@@ -5,25 +5,81 @@ html, body {
   height: 100%
 }
 
+header {
+  height: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  background-color: green;
+  position: fixed;
+  z-index: 10;
+  width: 100%;
+}
+
+header .dominionator-header {
+  color: white;
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 30px;
+  font-size: 20px;
+  padding-top: 10px;
+  position: relative
+}
+
+header .dominionator-header span {
+  padding-left: 10px;
+}
+
+header .dominionator-header span a {
+  color: white;
+  font-size: 20px;
+  text-decoration: none;
+}
+
 section {
   overflow: hidden;
+  min-height: 0px;
 }
 
 li span {
   display: inline-block;
 }
 
+
 .dominionator-wrapper {
   position: relative;
-  display: flex;
-  flex-direction: row;
+  margin-left: auto;
+  margin-right: auto;
   background-color: #8BA7C3;
-  /*min-height: 100%;*/
-  height: 100%
+  height: 100%;
+  margin-bottom: -20px;
 }
+
+footer {
+  z-index: 10;
+  height: 20px;
+  display: block;
+  color: black;
+  position: fixed;
+  width: 100%;
+}
+
+footer div {
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+}
+
+footer div span {
+  padding-left: 10px
+}
+
 
 .dominionator-content-area {
   width: 1000px;
+  /*padding-top: 40px;*/
   margin-left: auto;
   margin-right: auto;
   background-color: white;
@@ -33,6 +89,7 @@ li span {
 
 .dominionator-content-area .column {
   background-color: white;
+  padding-top: 60px
 }
 
 .slideLeft {
