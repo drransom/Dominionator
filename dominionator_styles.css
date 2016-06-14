@@ -351,11 +351,11 @@ img.dominionator-potion-img-no-text {
     margin-right: auto
   }
 
-  .standard-left-margin-padding {
+  .dominionator-heading, .dominionator-list {
     padding-left: 175px;
   }
 
-  .standard-left-margin-margin {
+  .dominionator-unveto-button {  
     margin-left: 175px
   }
 
