@@ -372,13 +372,15 @@ img.dominionator-potion-img-no-text {
   }
 
   .slideLeft {
-    margin-left: -500px
+    margin-left: -500px;
   }
   .slideRight {
-    margin-left: 1000px
+    margin-left: 1000px;
+  }
+  .dominionator-input-form {
+    padding-left:40px;
   }
 
-  }
 }
 
 
@@ -400,6 +402,7 @@ img.dominionator-potion-img-no-text {
   }
   .standard-left-margin-margin {
     margin-left: 10px
+  }
 }
 
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px)
@@ -425,5 +428,9 @@ img.dominionator-potion-img-no-text {
 
   .dominionator-content-area .right-column {
     padding-top: 0px
+  }
+
+  .dominionator-input-form {
+    padding-left:20px;
   }
 }
