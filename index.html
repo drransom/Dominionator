@@ -8,23 +8,23 @@
 
     <script src="./lib/helpers.js"></script>
     <script type="module" src="./lib/card_selector.js"></script>
-    <script src="./lib/game_display.js"></script>
+    <script type="module" src="./lib/game_display.js"></script>
     <script type="module" src="./lib/game.js"></script>
-    <script src="./lib/card_display.js"></script>
+    <script type="module" src="./lib/card_display.js"></script>
     <script src="./lib/sort_display.js"></script>
     <script src="./lib/sorter.js"></script>
     <script type="module" src="./lib/card_select_form.js"></script>
     <script type="module" src="./lib/card_select_form_li.js"></script>
     <script type="module" src="./lib/card_list.js"></script>
     <script type="module" src="./lib/card.js"></script>
-    <script src="./lib/cost.js"></script>
+    <script type="module" src="./lib/cost.js"></script>
     <script src="./lib/game_history.js"></script>
 
     <script type="module" src="./lib/card_selection_functions.js"></script>
     <script type="module" src="./lib/veto.js"></script>
     <script type="module" src="./lib/special_cards.js"></script>
     <script type="module" src="./lib/alchemy.js"></script>
-    <script src="./lib/dominionator_transitions.js"></script>
+    <script type="module" src="./lib/dominionator_transitions.js"></script>
 
 <link href='https://fonts.googleapis.com/css?family=Forum|Poiret+One' rel='stylesheet' type='text/css'>
 <link href="./dominionator_styles.css" rel="stylesheet" media="screen" type="text/css">
@@ -46,7 +46,7 @@
     <!-- <footer><div><span>Powered by <a href="http://www.elliotreed.com">elliotreed.com</a></span></div></footer> -->
     <script>
       window.onload = function () {
-        var selector = new Dominionator.CardSelector();
+        var selector = new CardSelector();
         selector.start();
       };
     </script>
