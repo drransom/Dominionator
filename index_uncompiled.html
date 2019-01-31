@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Dominionator!</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <script src="./vendor/papaparse.min.js"></script>
+
+    <script type="module" src="./lib/helpers.jlcs"></script>
+    <script type="module" src="./lib/card_selector.js"></script>
+    <script type="module" src="./lib/game_display.js"></script>
+    <script type="module" src="./lib/game.js"></script>
+    <script type="module" src="./lib/card_display.js"></script>
+    <script type="module" src="./lib/sort_display.js"></script>
+    <script type="module" src="./lib/sorter.js"></script>
+    <script type="module" src="./lib/card_select_form.js"></script>
+    <script type="module" src="./lib/card_select_form_li.js"></script>
+    <script type="module" src="./lib/card_list.js"></script>
+    <script type="module" src="./lib/card.js"></script>
+    <script type="module" src="./lib/cost.js"></script>
+    <script type="module" src="./lib/game_history.js"></script>
+
+    <script type="module" src="./lib/dominionator_transitions.js"></script>
+
+<link href='https://fonts.googleapis.com/css?family=Forum|Poiret+One' rel='stylesheet' type='text/css'>
+<link href="./dominionator_styles.css" rel="stylesheet" media="screen" type="text/css">
+  </head>
+  <body>
+    <div class="dominionator-wrapper">
+    <header><div class='dominionator-header'><span><a href='http://drransom.github.io/Dominionator'>Dominionator!</a></span></div></header>
+      <div class="dominionator-content-area">
+        <div class="column left-column" id='dominionator-card-location-column'>
+          <div id="dominionator-card-location"></div>
+        </div>
+        <div class="column right-column">
+          <form id="dominionator-input-form" class="dominionator-input-form"></form>
+          <form id="dominionator-sort-form"></form>
+          <div id="dominionator-navigation"></div>
+        </div>
+      </div>
+    </div>
+    <!-- <footer><div><span>Powered by <a href="http://www.elliotreed.com">elliotreed.com</a></span></div></footer> -->
+    <script>
+      window.onload = function () {
+        var selector = new CardSelector();
+        selector.start();
+      };
+    </script>
+  </body>
+</html>
