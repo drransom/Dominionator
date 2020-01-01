@@ -404,4 +404,7 @@ id,name,set,cost,debtCost,potionCost,action,victory,treasure,extraPile,ruins,spo
 403,innovation,Renaissance,6,0,0,N,N,N,,N,N,N,N,Y,N,N,,
 404,canal,Renaissance,7,0,0,N,N,N,,N,N,N,N,Y,N,N,,
 405,citadel,Renaissance,8,0,0,N,N,N,,N,N,N,N,Y,N,N,,
-,,,,,,,,,,,,,,,,,,
+406,captain,Promo,6,0,0,Y,N,N,,N,N,N,Y,N,N,N,,
+407,church,Promo,3,0,0,Y,N,N,,N,N,N,Y,N,N,N,,
+408,sauna,Promo,4,0,0,Y,N,N,avanto,N,N,N,Y,N,N,N,,
+409,dismanle,Promo,5,0,0,Y,N,N,,N,N,N,Y,N,N,N,,
