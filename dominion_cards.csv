@@ -407,4 +407,4 @@ id,name,set,cost,debtCost,potionCost,action,victory,treasure,extraPile,ruins,spo
 406,captain,Promo,6,0,0,Y,N,N,,N,N,N,Y,N,N,N,,
 407,church,Promo,3,0,0,Y,N,N,,N,N,N,Y,N,N,N,,
 408,sauna,Promo,4,0,0,Y,N,N,avanto,N,N,N,Y,N,N,N,,
-409,dismanle,Promo,5,0,0,Y,N,N,,N,N,N,Y,N,N,N,,
+409,dismantle,Promo,5,0,0,Y,N,N,,N,N,N,Y,N,N,N,,
